@@ -1,4 +1,4 @@
-
+package optimizaciónlocal;
 // @author omarsito
 import java.util.Scanner;
 public class OptimizaciónLocal {
